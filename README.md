@@ -2,9 +2,9 @@
 
 [BMI 計算機](http://depart.femh.org.tw/dietary/3OPD/BMI.htm)
 
-1. 用 Object.create 建立一個 BMI 體重計算機。
-  * 有兩個屬性 height 跟 weight
-  * 有兩個函式 getBMI 跟 getAdvice
+* 用 Object.create 建立一個 BMI 體重計算機。
+  1. 有兩個屬性 height 跟 weight
+  1. 有兩個函式 getBMI 跟 getAdvice
 
 ## 作業要求
 
